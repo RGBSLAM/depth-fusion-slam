@@ -1,6 +1,6 @@
-name: nice-slam
+name: DFVSlam
 channels:
-  - pytorch
+  - pytorchnice-slam
   - conda-forge
   - defaults
 dependencies:
